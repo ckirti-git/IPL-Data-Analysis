@@ -32,7 +32,7 @@ Through data visualization and statistical exploration, we uncover trends that s
 ![Best Economy Rate](IPL_Best_economy.png)  
 
 ### 💥 Most Sixes by a Player  
-![Most Sixes](IPL_most_sixes.png)  
+![Most Sixes](IPL most sixes.png)  
 
 ### 🎲 Toss Impact on Winning  
 ![Toss Impact](Toss_Impact_IPL.png)  
