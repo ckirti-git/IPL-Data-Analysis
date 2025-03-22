@@ -43,9 +43,6 @@ Through data visualization and statistical exploration, we uncover trends that s
 ---
 
 
-
----
-
 ## 📢 Conclusion  
 This project showcases the **power of data in cricket analytics.**  
 From team dominance to player consistency, the insights extracted here can help **fans, analysts, and franchises** make better predictions and decisions.  
