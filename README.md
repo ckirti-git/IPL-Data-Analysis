@@ -26,19 +26,19 @@ Through data visualization and statistical exploration, we uncover trends that s
 ## 🔥 Key Findings & Visualizations  
 
 ### 🏆 Most Successful IPL Teams  
-![Most Successful IPL Teams](Most_Title_Wins.png)  
+![Most Successful IPL Teams](most_title_winner.png)  
 
 ### 🎯 Best Economy Rate (Bowlers)  
-![Best Economy Rate](IPL_Best_economy.png)  
+![Best Economy Rate](best_economy.png)  
 
 ### 💥 Most Sixes by a Player  
-![Most Sixes](IPL most sixes.png)  
+![Most Sixes](most_sixes.png)  
 
 ### 🎲 Toss Impact on Winning  
-![Toss Impact](Toss_Impact_IPL.png)  
+![Toss Impact](toss_impact.png)  
 
 ### 🏅 Most Valuable Player (MVP)  
-![MVP](MVP_player.png) 
+![MVP](mvp.png) 
 
 ---
 
