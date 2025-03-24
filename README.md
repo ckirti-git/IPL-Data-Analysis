@@ -21,8 +21,6 @@ Through data visualization and statistical exploration, we uncover trends that s
 🔹 **Libraries:** Pandas, Matplotlib, Seaborn, NumPy  
 🔹 **Visualization Tools:** Matplotlib, Seaborn, PowerBI  
 
----
-
 ## 🔥 Key Findings & Visualizations  
 
 ### 🏆 Most Successful IPL Teams  
@@ -40,9 +38,6 @@ Through data visualization and statistical exploration, we uncover trends that s
 ### 🏅 Most Valuable Player (MVP)  
 ![MVP](mvp.png) 
 
----
-
-
 ## 📢 Conclusion  
 This project showcases the **power of data in cricket analytics.**  
 From team dominance to player consistency, the insights extracted here can help **fans, analysts, and franchises** make better predictions and decisions.  
@@ -50,8 +45,6 @@ From team dominance to player consistency, the insights extracted here can help 
 ### 🔮 What’s Next?  
 💡 Implement **machine learning models** to predict match outcomes!  
 💡 Build **interactive dashboards** with Tableau or Power BI!  
-
----
 
 ## 👤 Author & Acknowledgments  
 🚀 **Author:** Kirti Chaudhari  
