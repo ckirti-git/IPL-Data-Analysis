@@ -21,10 +21,12 @@ Through data visualization and statistical exploration, we uncover trends that s
 🔹 **Libraries:** Pandas, Matplotlib, Seaborn, NumPy  
 🔹 **Visualization Tools:** Matplotlib, Seaborn, PowerBI  
 
-## How to Use
-1. Download the dataset.
-2. Run the Jupyter Notebook (`.ipynb`) file.
-3. Explore insights from visualizations.
+## 🚀 How to Use  
+1️⃣ **Download the dataset** 📂 – Make sure to get the required dataset before running the project.  
+2️⃣ **Run the Jupyter Notebook** 📒 – Open the `.ipynb` file in **Jupyter Notebook** or Google Colab.  
+3️⃣ **Explore insights from visualizations** 📊 – Check the graphs and results to understand the patterns.  
+
+🎯 _Now you’re ready to analyze and interpret the data!_ 🚀
 
 ## 🔥 Key Findings & Visualizations  
 
