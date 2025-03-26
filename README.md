@@ -21,6 +21,11 @@ Through data visualization and statistical exploration, we uncover trends that s
 🔹 **Libraries:** Pandas, Matplotlib, Seaborn, NumPy  
 🔹 **Visualization Tools:** Matplotlib, Seaborn, PowerBI  
 
+## How to Use
+1. Download the dataset.
+2. Run the Jupyter Notebook (`.ipynb`) file.
+3. Explore insights from visualizations.
+
 ## 🔥 Key Findings & Visualizations  
 
 ### 🏆 Most Successful IPL Teams  
